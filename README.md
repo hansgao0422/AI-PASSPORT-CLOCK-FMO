@@ -1,4 +1,4 @@
-# FoloToy AI Passport 桌面时钟
+# FoloToy AI Passport 桌面时钟（仅提供固件下载，不提供源代码）
 
 这是一款面向 FoloToy AI Passport 的 Wi-Fi 桌面时钟与 FMO 电台伴侣。主界面集中显示本地时间、天气、头像、当前通联信息和所选 FMO 服务器。
 
